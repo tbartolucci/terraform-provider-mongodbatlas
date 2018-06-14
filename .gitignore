@@ -3,3 +3,5 @@
 examples/terraform.d
 dist/
 .DS_Store
+
+\.idea/
